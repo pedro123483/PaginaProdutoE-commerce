@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Kumbh+Sans&family=Poppins:wght@400;600;700&family=Spartan:wght@700&display=swap');
+
+body{
+
+    font-size: 16px;
+    font-family: 'Kumbh Sans', sans-serif;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.shoes{
+
+    width: 50%;
+    border-radius: 10px;
+}
+
+h6{
+    color: hsl(26, 100%, 55%);
+    font-weight: bold;
+}
+
+h2{
+
+    font-weight: bold;
+}
+
+pre{
+
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 16px;
+
+}
+
+h3{
+
+    font-weight: bold;
+}
+
+.promo{
+
+    color: hsl(26, 100%, 55%);
+    background-color: hsl(26, 100%, 90%);
+    border-radius: 5px;
+    padding: 1px;
+}
+
+p{
+    text-align: justify;
+    width: 70%;
+}
+
+.paragrafos{
+
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+button > p{
+
+    font-weight: bold;
+}
+
+.quantidade{
+
+    font-weight: bold;
+    background-color: hsl(233, 64%, 98%);
+    width: 30%;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.cart{
+
+    background-color: hsl(26, 100%, 55%);
+    width: 80%;
+    color: white;
+    font-size: 13px;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+span{
+
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.img-thumbnail:hover{
+
+    background-color: hsl(26, 100%, 55%);
+    filter: brightness(80%);
+}
+
+.icon-cart{
+
+    width: 20%;
+    height: 20%;
+}
